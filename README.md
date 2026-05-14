@@ -10,15 +10,7 @@
 <img src="https://img.shields.io/badge/SYSTEM-LIVE-7DF9FF?style=for-the-badge&logo=databricks&logoColor=02131f"/>
 
 </div>
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SYSTEM%20CORE&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=7DF9FF&desc=AI%20•%20FINTECH%20•%20REALTIME%20SYSTEMS&descAlignY=65&descSize=22&color=0:020617,20:031826,40:05293D,60:0B3B52,80:0EA5E9,100:7DF9FF"/>
-
-<br><br>
-
-<table>
-<tr>
-<td>
 
 ```yaml
 SYSTEM STATUS : ACTIVE
@@ -33,7 +25,7 @@ FOCUS:
   - FINANCIAL UI / UX
   - CLOUD APPLICATIONS
   - AUTOMATED ANALYTICS
-
+```
 </div>
 
 </div>
