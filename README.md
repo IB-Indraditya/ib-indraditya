@@ -37,8 +37,16 @@ FOCUS:
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=1000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+LIVE+SYSTEM+CLOCK;%F0%9F%95%92+REAL+TIME+CORE+ACTIVE" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/TIME-LIVE-00F5FF?style=for-the-badge&logo=clockify&logoColor=02131f"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=%F0%9F%95%92+LIVE+SYSTEM+CLOCK" />
+
+<img src="https://img.shields.io/badge/TIMEZONE-IST-00F5FF?style=for-the-badge&logo=clockify&logoColor=02131f"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=%20%20LIVE%20CORE%20ONLINE%20%20&fontSize=28&fontAlign=50&fontAlignY=55&fontColor=7DF9FF&color=0:020617,25:05293D,50:0B3B52,75:0EA5E9,100:7DF9FF"/>
+
+</div>
 
 </div><div align="center"> <h3> ⚡ Thank You For Visiting My Profile ⚡ </h3> </div>
