@@ -32,6 +32,7 @@ FOCUS:
 
 </div>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
+<img width="100px" height="100px" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXF3ZW5pMzg5anZnNzM5c2FqbnVybXc0aXF5YjlzOXN6ZWJlMjc5ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KEZPgkE1eTquKHXb0W/200.gif"/>
 <div align="center"> <img width="80%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/><img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/><img width="100px" height="100px" src="https://clipart-library.com/img1/972644.gif"/>
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
