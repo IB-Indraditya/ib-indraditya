@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1800&pause=700&color=7DF9FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+DARK+TEAL+CORE+ONLINE;%F0%9F%93%88+REAL+TIME+TRADING+SYSTEMS;%F0%9F%9A%80+AI+FINTECH+ENGINEER;%F0%9F%92%BB+FULL+STACK+INTELLIGENT+ARCHITECT" />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=icloud&logoColor=02131f"/>
 <img src="https://img.shields.io/badge/AI-FINTECH-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/CORE-ACTIVE-38BDF8?style=for-the-badge&logo=dependabot&logoColor=02131f"/>
