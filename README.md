@@ -34,19 +34,7 @@ FOCUS:
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=38BDF8&currStreakLabel=7DF9FF"/> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div>
+<!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=%F0%9F%95%92+LIVE+SYSTEM+CLOCK" />
-
-<img src="https://img.shields.io/badge/TIMEZONE-IST-00F5FF?style=for-the-badge&logo=clockify&logoColor=02131f"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=%20%20LIVE%20CORE%20ONLINE%20%20&fontSize=28&fontAlign=50&fontAlignY=55&fontColor=7DF9FF&color=0:020617,25:05293D,50:0B3B52,75:0EA5E9,100:7DF9FF"/>
-
-</div>
 
 </div><div align="center"> <h3> ⚡ Thank You For Visiting My Profile ⚡ </h3> </div>
