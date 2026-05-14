@@ -10,10 +10,7 @@
 <img src="https://img.shields.io/badge/SYSTEM-LIVE-7DF9FF?style=for-the-badge&logo=databricks&logoColor=02131f"/>
 
 </div>
-<div align="center">
 
-<img width="100%" src="https://objects.immersionslabs.com/common/ar/puremono/3ed89d50-0ece-11ef-92f7-f18a11e61971/3ed89d50-0ece-11ef-92f7-f18a11e61971.gif"/>
-</div>
 ```yaml
 SYSTEM STATUS : ACTIVE
 USER          : INDRADITYA
