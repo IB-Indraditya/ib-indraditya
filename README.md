@@ -40,9 +40,5 @@ FOCUS:
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
-<div align="center">
-
-<img width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/circle.gif"/>
-
-</div>
+<img width="100%" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif"/>
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
