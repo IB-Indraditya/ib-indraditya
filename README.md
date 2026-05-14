@@ -42,3 +42,8 @@ FOCUS:
 </p>
 <img src="https://komarev.com/ghpvc/?username=ib-indraditya&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
+<div align="center">
+
+<img width="300" src="https://media.tenor.com/GocCvG7hs78AAAAC/earth-hologram.gif"/>
+
+</div>
