@@ -32,7 +32,7 @@ FOCUS:
 
 </div>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=38BDF8&currStreakLabel=7DF9FF"/> </div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&sring=00F5FF&fire=38BDF8&currStreakLabel=7DF9FF"/> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
@@ -40,5 +40,5 @@ FOCUS:
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
-<img width="100%" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif"/>
+<img src="https://komarev.com/ghpvc/?username=ib-indraditya&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
