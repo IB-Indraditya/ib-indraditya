@@ -33,13 +33,13 @@ FOCUS:
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
 <br>
 <div align="center"><img width="60px" height="100px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd8c4630-c0e2-4d18-bb6f-8efdb95e26f7/dgp9rlk-9a6a1d5c-8bfa-417a-a01d-0f827e4cbffb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZDhjNDYzMC1jMGUyLTRkMTgtYmI2Zi04ZWZkYjk1ZTI2ZjcvZGdwOXJsay05YTZhMWQ1Yy04YmZhLTQxN2EtYTAxZC0wZjgyN2U0Y2JmZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1i9f2Y6GEtKnximXZt-klFZmQBt1cIWcwrAwoRA-zLI"/></div>
-<div align="center"> <img width="80%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/><div align="center"><img width="100px" height="170px" src="https://giffiles.alphacoders.com/128/12832.gif"/></div><img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/></div><div align="center"><img width="100px" height="100px" src="https://clipart-library.com/img1/972644.gif"/></div>
+<div align="center"> <img width="80%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/><div align="center"><img width="100px" height="170px" src="https://giffiles.alphacoders.com/128/12832.gif"/></div><img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/></div><div align="center"><img width="110px" height="120px" src="https://clipart-library.com/img1/972644.gif"/></div>
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
 <p align="center">
-<img width="100px" height="100px" src="https://www.fightersgeneration.com/characters/captainamerica-chargingstar.gif">
+<img width="100px" height="120px" src="https://www.fightersgeneration.com/characters/captainamerica-chargingstar.gif">
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
