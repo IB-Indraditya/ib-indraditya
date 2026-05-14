@@ -41,18 +41,12 @@ AI FinTech Developer • Full Stack Engineer • Intelligent Systems
 
 </div>
 </div>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+FinTech+Developer;Real+Time+Trading+Dashboards;Flask+%7C+React+%7C+Cloud;JARVIS+Style+Financial+Systems" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=800&color=7DF9FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+JARVIS+CORE+ONLINE;%F0%9F%93%88+LIVE+MARKET+SYSTEM+ACTIVE;%F0%9F%9A%80+AI+FINTECH+ENGINEER" />
+
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/AI-00F5FF?style=flat-square&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/FinTech-0ea5e9?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</div>
 
 ```yaml
 SYSTEM STATUS: ACTIVE
