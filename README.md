@@ -38,7 +38,7 @@ FOCUS:
 <div align="center">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img width="100%" height="20px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://komarev.com/ghpvc/?username=ib-indraditya&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
