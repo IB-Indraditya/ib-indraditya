@@ -44,6 +44,6 @@ FOCUS:
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
 <div align="center">
 
-<img width="100%" height="20px" src="https://cdn.pixabay.com/animation/2026/01/04/23/31/23-31-02-278_512.gif"/>
+<img width="100%" height="100px" src="https://cdn.pixabay.com/animation/2026/01/04/23/31/23-31-02-278_512.gif"/>
 
 </div>
