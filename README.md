@@ -25,14 +25,6 @@ margin-top: 0;
 AI FinTech Developer • Full Stack Engineer • Intelligent Systems
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+SYSTEM+ACTIVE;%F0%9F%93%88+REAL+TIME+MARKET+SYSTEMS;%F0%9F%9A%80+AI+FINTECH+ENGINEER;%F0%9F%92%BB+BUILDING+INTELLIGENT+DASHBOARDS" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/FINTECH-0ea5e9?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-111827?style=for-the-badge&logo=icloud&logoColor=00F5FF"/>
-
 </div>
 
 </div>
