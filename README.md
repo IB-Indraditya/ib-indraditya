@@ -32,7 +32,7 @@ FOCUS:
 
 </div>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
-<div align="center"> <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="100%" src="https://d2w9rnfcy7mm78.cloudfront.net/9987911/original_026fc0b61e323aff95685b0331d518da.gif?1608653922"/></div>
+<div align="center"> <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/></div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
