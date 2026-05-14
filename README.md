@@ -32,7 +32,7 @@ FOCUS:
 
 </div>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
-<div align="center"> <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="100%" src="https://i.pinimg.com/originals/30/9d/3c/309d3ca6996b76f83dc5a3ae8b780293.gif"/></div>
+<div align="center"> <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7DF9FF&icon_color=00F5FF&text_color=FFFFFF"/> <img width="100%" src="[https://i.pinimg.com/originals/30/9d/3c/309d3ca6996b76f83dc5a3ae8b780293.gif](https://i.pinimg.com/originals/8d/2c/8d/8d2c8deb0af2c8d4471c5ae704b11f66.gif)"/></div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
