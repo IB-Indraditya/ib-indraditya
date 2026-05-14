@@ -39,7 +39,7 @@ FOCUS:
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
 <p align="center">
-<img width="100px" height="120px" src="https://www.fightersgeneration.com/characters/captainamerica-chargingstar.gif">
+<img width="120px" height="140px" src="https://www.fightersgeneration.com/characters/captainamerica-chargingstar.gif">
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
