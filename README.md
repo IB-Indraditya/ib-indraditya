@@ -46,11 +46,10 @@ FOCUS:
 </p>
 <img src="https://komarev.com/ghpvc/?username=ib-indraditya&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 <div align="center">
-
- <img width="120px" height="120px" src="https://giffiles.alphacoders.com/127/12781.gif"/>
+<br>
+<img width="140px" height="140px" src="https://giffiles.alphacoders.com/127/12781.gif"/>
 </div>
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
 <div align="center">
-
 <img width="100%" height="200px" src="https://cdn.pixabay.com/animation/2026/01/04/23/31/23-31-02-278_512.gif"/>
 </div>
