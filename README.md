@@ -44,6 +44,6 @@ FOCUS:
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
 <div align="center">
 
-<img width="300" src="https://i.pinimg.com/originals/f7/2c/1c/f72c1cc4b8d179f58fe9f7aee54d3dfc.gif"/>
+<img width="100%" src="https://i.pinimg.com/originals/f7/2c/1c/f72c1cc4b8d179f58fe9f7aee54d3dfc.gif"/>
 
 </div>
