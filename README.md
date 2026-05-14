@@ -37,65 +37,8 @@ FOCUS:
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
 
-<div id="jarvis-clock" style="
-width:320px;
-margin:auto;
-padding:25px;
-border-radius:20px;
-background:linear-gradient(135deg,#020617,#071827,#0ea5e9);
-border:2px solid #7DF9FF;
-box-shadow:0 0 25px #00F5FF;
-text-align:center;
-font-family:Orbitron,sans-serif;
-color:#7DF9FF;
-">
-
-<div style="
-font-size:18px;
-letter-spacing:4px;
-margin-bottom:10px;
-">
-⚡ SYSTEM TIME ⚡
-</div>
-
-<div id="time" style="
-font-size:42px;
-font-weight:bold;
-text-shadow:0 0 20px #00F5FF;
-">
-00:00:00
-</div>
-
-<div style="
-margin-top:10px;
-font-size:14px;
-letter-spacing:3px;
-color:#B6FFFF;
-">
-KOLKATA • INDIA
-</div>
-
-</div>
-
-<script>
-
-function updateClock(){
-
-    const now = new Date();
-
-    const time =
-        now.toLocaleTimeString();
-
-    document.getElementById(
-        "time"
-    ).innerHTML = time;
-
-}
-
-setInterval(updateClock,1000);
-
-updateClock();
-
-</script>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
