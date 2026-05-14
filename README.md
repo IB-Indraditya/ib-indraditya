@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hey%20Guys%20Welcome%20to%20my%20Profile&fontAlign=50&fontAlignY=35&color=0:020617,50:0f172a,100:00F5FF&fontColor=00F5FF&fontSize=32"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=JARVIS%20FINTECH%20CORE&fontAlign=50&fontAlignY=42&animation=twinkling&fontColor=00F5FF&fontSize=42&desc=AI%20•%20Trading%20Systems%20•%20Cloud%20Engineering&descAlignY=65&descAlign=50&descSize=18&color=0:000000,20:020617,40:071120,60:0f172a,80:0ea5e9,100:00F5FF"/>
+
 </div>
 
 <div align="center">
