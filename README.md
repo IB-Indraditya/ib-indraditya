@@ -1,20 +1,17 @@
 <div align="center">
 <div align="center">
-<div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=INDRADITYA&fontColor=FFD700&stroke=FF4500&strokeWidth=2&fontSize=64&animation=twinkling&desc=AI%20FinTech%20Developer%20•%20Real%20Time%20Systems%20Engineer&descAlignY=72&descSize=22&descColor=FFE066&color=0:1a0000,15:330000,35:660000,55:8B0000,75:FF4500,90:FF8C00,100:FFD700"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=INDRADITYA&fontSize=68&fontAlignY=42&animation=twinkling&fontColor=7DF9FF&desc=AI%20FinTech%20Developer%20•%20Real%20Time%20Systems%20Engineer&descAlignY=68&descSize=22&descColor=B6FFFF&stroke=00F5FF&strokeWidth=2.5&color=0:020617,15:031826,35:05293D,55:0B3B52,75:0EA5E9,90:38BDF8,100:7DF9FF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=850&lines=%F0%9F%94%A5+LAVA+CORE+ACTIVE;%E2%9A%A1+REAL+TIME+MARKET+SYSTEMS;%F0%9F%9A%80+AI+FINTECH+ENGINEER;%F0%9F%93%88+LIVE+TRADING+DASHBOARDS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=700&color=7DF9FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+DARK+TEAL+CORE+ONLINE;%F0%9F%93%88+REAL+TIME+TRADING+SYSTEMS;%F0%9F%9A%80+AI+FINTECH+ENGINEER;%F0%9F%92%BB+FULL+STACK+INTELLIGENT+ARCHITECT" />
 
-</div>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=icloud&logoColor=black"/>
-<img src="https://img.shields.io/badge/CORE-ACTIVE-0ea5e9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-DYNAMIC-111827?style=for-the-badge&logo=dependabot&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=icloud&logoColor=02131f"/>
+<img src="https://img.shields.io/badge/AI-FINTECH-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CORE-ACTIVE-38BDF8?style=for-the-badge&logo=dependabot&logoColor=02131f"/>
 
 </div>
 
