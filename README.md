@@ -34,12 +34,12 @@ FOCUS:
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
 </div>
 
 <div align="center">
