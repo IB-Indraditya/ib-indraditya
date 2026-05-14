@@ -32,7 +32,7 @@ FOCUS:
 
 </div>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" /> </div>
-<div align="center"> <img width="80%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/><img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/<img width="100%" height="200px" src="https://clipart-library.com/img1/972644.gif"/>>
+<div align="center"> <img width="80%" src="https://static.vecteezy.com/system/resources/thumbnails/023/220/368/small/abstract-3d-design-background-with-technology-dot-and-line-circuit-board-texture-png.png"/><img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/><img width="100%" height="200px" src="https://clipart-library.com/img1/972644.gif"/>
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div>
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
