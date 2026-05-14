@@ -37,4 +37,24 @@ FOCUS:
 <!-- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=%20&animation=fadeIn&color=0:ff6b6b,20:ff8e53,40:ff9966,60:ff5e62,80:38BDF8,100:7DF9FF"/> </div> -->
 <div align="center">
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=JARVIS%20CLOCK&fontSize=42&fontColor=7DF9FF&color=0:020617,25:031826,50:0B3B52,75:0EA5E9,100:7DF9FF"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=500&lines=%F0%9F%95%92+SYSTEM+TIME;%E2%9A%A1+LIVE+CORE+ACTIVE" />
+
+<br><br>
+
+<img width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/circle.gif"/>
+
+<br>
+
+<h2>
+⚡ KOLKATA • INDIA ⚡
+</h2>
+
+</div>
+
 </div><div align="center"> <h3> ⚡ Explore My Profile ⚡ </h3> </div>
