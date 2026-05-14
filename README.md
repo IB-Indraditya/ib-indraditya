@@ -5,8 +5,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?&height=260&text=HI%20IT'S%20INDRADITYA&fontSize=50&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=AI%20Developer%20•%20FinTech%20Builder%20•%20Web%20Engineer&descAlignY=67&descSize=19&color=0:000000,25:0f172a,50:111827,75:0ea5e9,100:38bdf8"/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=HI%20IT'S%20INDRADITYA&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=00F5FF&desc=AI%20FinTech%20Developer%20•%20Full%20Stack%20Engineer%20•%20Building%20Intelligent%20Systems&descAlignY=65&descSize=20&color=0:000000,20:020617,40:071827,60:0f172a,80:0ea5e9,100:00F5FF"/>
+
+</div>
 </div>
 
 </div>
