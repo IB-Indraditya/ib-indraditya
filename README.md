@@ -1,8 +1,15 @@
 <div align="center">
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=HI%20IT'S%20INDRADITYA&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=00F5FF&desc=AI%20FinTech%20Developer%20•%20Full%20Stack%20Engineer%20•%20Building%20Intelligent%20Systems&descAlignY=65&descSize=20&color=0:000000,20:020617,40:071827,60:0f172a,80:0ea5e9,100:00F5FF"/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=HI%20IT'S%20INDRADITYA&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=00F5FF&font=Orbitron&desc=AI%20FinTech%20Developer%20•%20Full%20Stack%20Engineer%20•%20Building%20Intelligent%20Systems&descAlignY=66&descSize=20&color=0:000000,20:020617,40:071827,60:0f172a,80:0ea5e9,100:00F5FF"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+SYSTEM+ACTIVE;%F0%9F%93%88+LIVE+FINTECH+MODE;%F0%9F%9A%80+BUILDING+INTELLIGENT+SYSTEMS" />
+
+</div>
 </div>
 
 <div align="center">
