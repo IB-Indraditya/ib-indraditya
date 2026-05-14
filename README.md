@@ -1,19 +1,20 @@
 <div align="center">
 <div align="center">
+<div align="center">
 
-<h1 style="
-font-family: 'Orbitron', sans-serif;
-font-size: 58px;
-font-weight: 800;
-letter-spacing: 6px;
-background: linear-gradient(90deg,#00F5FF,#0ea5e9,#38bdf8,#00F5FF);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-text-shadow: 0 0 25px rgba(0,245,255,0.7);
-margin-bottom: 10px;
-">
-HI IT'S INDRADITYA
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=INDRADITYA&fontColor=00F5FF&stroke=00F5FF&strokeWidth=1.5&fontSize=60&animation=fadeIn&desc=AI%20FinTech%20Developer%20•%20Real%20Time%20Systems%20Engineer&descAlignY=70&descSize=20&color=0:000000,25:071827,50:0f172a,75:0ea5e9,100:00F5FF"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+AI+FINTECH+ENGINEER;%F0%9F%93%88+REAL+TIME+TRADING+DASHBOARDS;%F0%9F%9A%80+LIVE+MARKET+ANALYTICS;%F0%9F%92%BB+FULL+STACK+SYSTEM+ARCHITECT" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=icloud&logoColor=black"/>
+<img src="https://img.shields.io/badge/CORE-ACTIVE-0ea5e9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-DYNAMIC-111827?style=for-the-badge&logo=dependabot&logoColor=00F5FF"/>
+
+</div>
 
 <p style="
 font-family: 'Audiowide', sans-serif;
