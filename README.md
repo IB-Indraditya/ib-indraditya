@@ -1,7 +1,11 @@
 <div align="center">
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=JARVIS%20FINTECH%20CORE&fontAlign=50&fontAlignY=42&animation=twinkling&fontColor=00F5FF&fontSize=42&desc=AI%20•%20Trading%20Systems%20•%20Cloud%20Engineering&descAlignY=65&descAlign=50&descSize=18&color=0:000000,20:020617,40:071120,60:0f172a,80:0ea5e9,100:00F5FF"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HI%20IT'S%20INDRADITYA&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=00F5FF&fontSize=40&desc=⚡%20JARVIS%20FINTECH%20SYSTEM%20ONLINE%20⚡&descAlignY=63&descAlign=50&descSize=20&color=0:000000,15:020617,35:071120,55:0f172a,75:0ea5e9,100:00F5FF"/>
+
+</div>
 
 </div>
 
