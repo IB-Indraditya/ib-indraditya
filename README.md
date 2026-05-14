@@ -10,250 +10,29 @@
 <img src="https://img.shields.io/badge/SYSTEM-LIVE-7DF9FF?style=for-the-badge&logo=databricks&logoColor=02131f"/>
 
 </div>
-<div style="
-position:relative;
-width:100%;
-max-width:950px;
-margin:auto;
-padding:40px;
-border-radius:28px;
-overflow:hidden;
-background:linear-gradient(135deg,#020617,#031826,#05293D,#0B3B52,#0EA5E9);
-background-size:400% 400%;
-animation:lavaFlow 12s ease infinite;
-font-family:'Orbitron',sans-serif;
-box-shadow:0 0 40px rgba(0,245,255,0.2);
-border:1px solid rgba(125,249,255,0.25);
-color:#7DF9FF;
-">
+<div align="center">
 
-<div style="
-position:absolute;
-inset:0;
-background:
-radial-gradient(circle at 20% 20%, rgba(0,245,255,0.20), transparent 25%),
-radial-gradient(circle at 80% 30%, rgba(56,189,248,0.18), transparent 30%),
-radial-gradient(circle at 60% 80%, rgba(125,249,255,0.15), transparent 35%);
-filter:blur(60px);
-z-index:0;
-"></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SYSTEM%20CORE&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=7DF9FF&desc=AI%20•%20FINTECH%20•%20REALTIME%20SYSTEMS&descAlignY=65&descSize=22&color=0:020617,20:031826,40:05293D,60:0B3B52,80:0EA5E9,100:7DF9FF"/>
 
-<div style="
-position:relative;
-z-index:2;
-backdrop-filter:blur(18px);
-background:rgba(0,0,0,0.35);
-border-radius:24px;
-padding:35px;
-border:1px solid rgba(125,249,255,0.15);
-box-shadow:inset 0 0 25px rgba(0,245,255,0.08);
-">
+<br><br>
 
-<div style="
-text-align:center;
-font-size:42px;
-font-weight:800;
-letter-spacing:5px;
-margin-bottom:35px;
-color:#7DF9FF;
-text-shadow:
-0 0 10px #00F5FF,
-0 0 25px #00F5FF;
-">
-⚡ SYSTEM CORE ⚡
-</div>
+<table>
+<tr>
+<td>
 
-<div style="
-display:flex;
-margin-bottom:18px;
-font-size:15px;
-letter-spacing:1px;
-">
-<div style="
-width:180px;
-font-weight:700;
-color:#38BDF8;
-">
-USER
-</div>
+```yaml
+SYSTEM STATUS : ACTIVE
+USER          : INDRADITYA
+ROLE          : AI + FINTECH ENGINEER
+FRAMEWORK     : FULL STACK + CLOUD
+MODE          : REAL TIME ANALYTICS
 
-<div style="color:#E0FFFF;">
-INDRADITYA
-</div>
-</div>
-
-<div style="
-display:flex;
-margin-bottom:18px;
-font-size:15px;
-letter-spacing:1px;
-">
-<div style="
-width:180px;
-font-weight:700;
-color:#38BDF8;
-">
-ROLE
-</div>
-
-<div style="color:#E0FFFF;">
-AI • FINTECH • FULL STACK ENGINEER
-</div>
-</div>
-
-<div style="
-display:flex;
-margin-bottom:18px;
-font-size:15px;
-letter-spacing:1px;
-">
-<div style="
-width:180px;
-font-weight:700;
-color:#38BDF8;
-">
-FRAMEWORK
-</div>
-
-<div style="color:#E0FFFF;">
-REAL TIME ANALYTICS ENGINE
-</div>
-</div>
-
-<div style="
-display:flex;
-margin-bottom:18px;
-font-size:15px;
-letter-spacing:1px;
-">
-<div style="
-width:180px;
-font-weight:700;
-color:#38BDF8;
-">
-STATUS
-</div>
-
-<div style="
-color:#7DF9FF;
-font-weight:700;
-text-shadow:0 0 10px #00F5FF;
-">
-ONLINE
-</div>
-</div>
-
-<div style="
-display:flex;
-margin-bottom:18px;
-font-size:15px;
-letter-spacing:1px;
-">
-<div style="
-width:180px;
-font-weight:700;
-color:#38BDF8;
-">
-NETWORK
-</div>
-
-<div style="color:#E0FFFF;">
-CLOUD CONNECTED
-</div>
-</div>
-
-<div style="
-margin-top:28px;
-margin-bottom:18px;
-font-size:18px;
-font-weight:700;
-letter-spacing:2px;
-color:#7DF9FF;
-">
-PRIMARY MODULES
-</div>
-
-<div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
-gap:14px;
-">
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-📈 AI STOCK DASHBOARDS
-</div>
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-⚡ LIVE MARKET SYSTEMS
-</div>
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-💹 FINANCIAL UI / UX
-</div>
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-☁ CLOUD APPLICATIONS
-</div>
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-🤖 AUTOMATED ANALYTICS
-</div>
-
-<div style="
-padding:14px;
-border-radius:14px;
-background:rgba(255,255,255,0.04);
-border:1px solid rgba(125,249,255,0.12);
-box-shadow:0 0 12px rgba(0,245,255,0.05);
-">
-📊 REAL TIME VISUALIZATION
-</div>
-
-</div>
-
-<div style="
-margin-top:35px;
-text-align:center;
-font-size:15px;
-letter-spacing:3px;
-font-weight:700;
-color:#7DF9FF;
-text-shadow:
-0 0 8px #00F5FF,
-0 0 18px #00F5FF;
-">
-◉ REAL TIME FINANCIAL CORE ACTIVE ◉
-</div>
+FOCUS:
+  - AI STOCK DASHBOARDS
+  - LIVE MARKET SYSTEMS
+  - FINANCIAL UI / UX
+  - CLOUD APPLICATIONS
+  - AUTOMATED ANALYTICS
 
 </div>
 
