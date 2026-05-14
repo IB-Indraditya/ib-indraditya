@@ -1,1 +1,48 @@
-</td> <td width="45%"> <div align="center"> <img width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k0Y3B5bWZ6Mjg4eGJtNXBjdWhydjJjNXJpNW9iY2N5dXc0aGg2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1000&pause=1000&color=00F5FF&center=true&vCenter=true&width=260&lines=%F0%9F%95%92+SYSTEM+TIME;%E2%9A%A1+LIVE+FINTECH+MODE;%F0%9F%93%88+MARKET+CORE+ONLINE" /> </div> </td> </tr> </table> <div align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux&theme=dark" /> </div> <br> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/> </div> <br> <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true"/> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:071827,60:0ea5e9,100:00F5FF&height=3&section=footer"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+REAL+TIME+FINANCIAL+CORE+ACTIVE+%E2%9A%A1;%F0%9F%93%88+MONITORING+LIVE+MARKET+SYSTEMS;%F0%9F%9A%80+BUILDING+INTELLIGENT+DIGITAL+INFRASTRUCTURE" /> </div> ```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=JARVIS%20FINTECH%20SYSTEM&fontAlign=50&fontAlignY=35&color=0:020617,50:0f172a,100:00F5FF&fontColor=00F5FF&fontSize=32"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+FinTech+Developer;Real+Time+Trading+Dashboards;Flask+%7C+React+%7C+Cloud;JARVIS+Style+Financial+Systems" />
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/AI-00F5FF?style=flat-square&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/FinTech-0ea5e9?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</div>
+
+```yaml
+SYSTEM STATUS: ACTIVE
+USER: INDRADITYA
+ROLE: AI + FINTECH ENGINEER
+MODE: JARVIS
+FOCUS:
+- AI STOCK DASHBOARDS
+- LIVE MARKET SYSTEMS
+- FINANCIAL UI
+- CLOUD APPS
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" />
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5FF&height=2&section=footer"/>
+</div>
+
+<div align="center">
+⚡ JARVIS FINANCIAL CORE ONLINE ⚡
+</div>
