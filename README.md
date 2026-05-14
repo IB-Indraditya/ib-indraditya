@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=JARVIS%20FINTECH%20SYSTEM&fontAlign=50&fontAlignY=35&color=0:020617,50:0f172a,100:00F5FF&fontColor=00F5FF&fontSize=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hello%20Guys%20Whatsup&fontAlign=50&fontAlignY=35&color=0:020617,50:0f172a,100:00F5FF&fontColor=00F5FF&fontSize=32"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+FinTech+Developer;Real+Time+Trading+Dashboards;Flask+%7C+React+%7C+Cloud;JARVIS+Style+Financial+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+FinTech+Developer;Real+Time+Trading+Dashboards;Flask+%7C+React+%7C+Cloud;Welcome+to+my+Profile" />
 </div>
 
 <div align="center">
@@ -31,12 +31,12 @@ FOCUS:
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ib-indraditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ib-indraditya&theme=tokyonight&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
 </div>
 
 <div align="center">
