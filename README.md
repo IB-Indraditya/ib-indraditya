@@ -1,13 +1,39 @@
 <div align="center">
 <div align="center">
 
-<div align="center">
+<h1 style="
+font-family: 'Orbitron', sans-serif;
+font-size: 58px;
+font-weight: 800;
+letter-spacing: 6px;
+background: linear-gradient(90deg,#00F5FF,#0ea5e9,#38bdf8,#00F5FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-shadow: 0 0 25px rgba(0,245,255,0.7);
+margin-bottom: 10px;
+">
+HI IT'S INDRADITYA
+</h1>
 
-<div align="center">
+<p style="
+font-family: 'Audiowide', sans-serif;
+font-size: 20px;
+color: #94a3b8;
+letter-spacing: 2px;
+margin-top: 0;
+">
+AI FinTech Developer • Full Stack Engineer • Intelligent Systems
+</p>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+SYSTEM+ACTIVE;%F0%9F%93%88+REAL+TIME+MARKET+SYSTEMS;%F0%9F%9A%80+AI+FINTECH+ENGINEER;%F0%9F%92%BB+BUILDING+INTELLIGENT+DASHBOARDS" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=HI%20IT'S%20INDRADITYA&font=Michroma&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=00F5FF&desc=AI%20FinTech%20Developer%20•%20Real%20Time%20Systems&descAlignY=66&descSize=18&color=0:000000,20:020617,40:071827,60:0f172a,80:0ea5e9,100:00F5FF"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/FINTECH-0ea5e9?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-111827?style=for-the-badge&logo=icloud&logoColor=00F5FF"/>
+
+</div>
 
 </div>
 </div>
