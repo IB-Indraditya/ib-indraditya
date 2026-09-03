@@ -12,7 +12,7 @@
 <!-- </div> -->
 
 
-### Tech Stack
+
 
 <!-- <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" />
 
@@ -28,9 +28,9 @@
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-### Contribution Activity -->
+
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/>
 
