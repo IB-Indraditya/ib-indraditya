@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Graduate | 📊 Data Analytics | 🤖 AI & Python
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+AI+Enthusiast;Building+Data-Driven+Projects;Exploring+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+AI+Enthusiast;Building+Data-Driven+Projects;Exploring+Artificial+Intelligence" />
 
 <br>
 
