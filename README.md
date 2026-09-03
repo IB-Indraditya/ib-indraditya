@@ -11,25 +11,10 @@
 
 <!-- </div> -->
 
-```yaml
-SYSTEM STATUS : ACTIVE
-USER          : INDRADITYA
-
-FRAMEWORK     : FULL STACK + CLOUD
-
-FOCUS:
-  - AI STOCK DASHBOARDS
-  - LIVE MARKET SYSTEMS
-  - UI / UX
-  - CLOUD APPLICATIONS
-  - AUTOMATED ANALYTICS
-```
-
-<!-- <div align="center">
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" />
+<!-- <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" />
 
 </div>
 
@@ -41,7 +26,7 @@ FOCUS:
 
 <img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
