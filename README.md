@@ -1,51 +1,161 @@
-<!-- <div align="center">
+# Hi, I'm Indraditya Bhattacharyya 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=INDRADITYA&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=7DF9FF&desc=AI%20FinTech%20Developer%20•%20Real%20Time%20Systems%20Engineer&descAlignY=68&descSize=22&descColor=B6FFFF&stroke=00F5FF&strokeWidth=2.5&color=0:020617,15:031826,35:05293D,55:0B3B52,75:0EA5E9,90:38BDF8,100:7DF9FF"/>
+I am a Computer Science graduate interested in **Data Analytics, Artificial Intelligence, Python, SQL, and Machine Learning**.
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1800&pause=700&color=7DF9FF&center=true&vCenter=true&width=950&lines=REAL+TIME+TRADING+SYSTEMS;AI+FINTECH+ENGINEER;FULL+STACK+INTELLIGENT+ARCHITECT" /> -->
+I enjoy building practical projects that combine data, automation, AI, and software development to solve real-world problems.
 
-<!-- <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=icloud&logoColor=02131f"/> -->
-<!-- <img src="https://img.shields.io/badge/AI-FINTECH-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/CORE-ACTIVE-38BDF8?style=for-the-badge&logo=dependabot&logoColor=02131f"/> -->
-<!-- <img src="https://img.shields.io/badge/SYSTEM-LIVE-7DF9FF?style=for-the-badge&logo=databricks&logoColor=02131f"/> -->
+---
 
-<!-- </div> -->
+## 🛠️ Technical Skills
 
+**Languages**
 
+* Python
+* SQL
+* JavaScript
+* PHP
 
+**Data & Analytics**
 
-<!-- <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,firebase,php,laravel,mysql,aws,linux" />
+* MySQL
+* Pandas
+* Data Cleaning
+* Data Processing
+* Data Analysis
+* Excel
 
-</div>
+**AI / ML**
 
-<br>
+* Generative AI
+* Google Gemini API
+* TensorFlow.js
+* Computer Vision
+* Speech & Voice AI
 
-<div align="center">
+**Development**
 
-### GitHub Streak
+* Flask
+* React.js
+* REST APIs
+* HTML
+* CSS
+* Firebase
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ib-indraditya&theme=tokyonight&hide_border=true&background=00000000&ring=7DF9FF&fire=00F5FF&currStreakLabel=38BDF8&sideNums=7DF9FF&currStreakNum=00F5FF&dates=B6FFFF"/>
+**Tools**
 
-</div> -->
+* Git & GitHub
+* Linux
+* VS Code
 
-<!-- <div align="center"> -->
+---
 
+## 📊 Data Analytics & AI Projects
 
+### 🤖 JARVIS – AI Personal Assistant
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ib-indraditya&bg_color=00000000&color=7DF9FF&line=00F5FF&point=FFFFFF&hide_border=true"/>
+An AI-powered personal assistant built using **Python, Flask, Gemini API and ElevenLabs**.
 
-</div>
+**Features:**
 
-<div align="center">
+* Natural-language interaction with Gemini
+* Voice input using Speech Recognition
+* AI-generated responses
+* Text-to-Speech using ElevenLabs
+* Web search integration
+* Interactive dashboard interface
+* Backend REST APIs
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+**Technologies:**
+`Python` `Flask` `Gemini API` `ElevenLabs` `JavaScript` `HTML` `CSS`
 
-<img src="https://komarev.com/ghpvc/?username=ib-indraditya&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
+---
 
-</div>
+### 📈 Financial Trading & Analytics Dashboard
 
-<div align="center"> -->
+A web-based dashboard developed for analyzing **financial trading and derivatives data**.
 
-### Explore My Profile
+**Features:**
 
-<!-- </div> --> -->
+* Trading data management
+* Investment and fund tracking
+* MTM analysis
+* Profit/Loss calculations
+* Cumulative MTM analysis
+* MySQL database integration
+* Dynamic data calculations
+* Interactive dashboard
+
+**Technologies:**
+`PHP` `MySQL` `JavaScript` `Bootstrap` `SQL`
+
+---
+
+### 🧠 AI Image Detection
+
+Developed browser-based AI experiments for detecting objects in images and video using machine-learning models.
+
+**Features:**
+
+* Real-time object detection
+* Image/video processing
+* AI model integration
+* Browser-based inference
+
+**Technologies:**
+`JavaScript` `TensorFlow.js` `COCO-SSD` `MobileNet`
+
+---
+
+### 🎙️ Text-to-Speech AI Application
+
+Developed an online text-to-speech application that converts written text into natural-sounding speech.
+
+**Features:**
+
+* Text-to-speech conversion
+* API integration
+* Audio generation
+* Web-based interface
+
+**Technologies:**
+`JavaScript` `HTML` `CSS` `REST API`
+
+---
+
+## 🎯 Currently Learning
+
+* Data Analytics
+* Advanced SQL
+* Python for Data Analysis
+* Pandas & NumPy
+* Excel & Pivot Tables
+* Statistics
+* Machine Learning
+* Generative AI
+* Data Visualization
+
+---
+
+## 📌 Career Interests
+
+I am currently looking for opportunities in:
+
+* Data Analyst
+* Junior Data Analyst
+* Business Analyst
+* AI / ML Intern
+* Data Annotation / AI Data Specialist
+* Data Operations
+* Python Developer
+
+---
+
+## 📫 Connect With Me
+
+* **GitHub:** [ib-indraditya](https://github.com/ib-indraditya)
+* **LinkedIn:** Add your LinkedIn profile here
+* **Email:** Add your email here
+
+---
+
+⭐ Feel free to explore my repositories and projects.
